@@ -18,3 +18,23 @@ nav {
     rgb(0, 106, 255) 100%
   );
 }
+
+.div-4 {
+  background-image: url("../images/blob-scene-haikei1.svg");
+  background-size: cover;
+}
+
+.div-5 {
+  background-image: url("../images/blob-haikei4.svg");
+  background-size: cover;
+}
+
+.div-6 {
+  background-image: url("../images/low-poly-grid-haikei3.svg");
+  background-size: cover;
+}
+
+.div-7 {
+  background-image: url("../images/stacked-waves-haikei2.svg");
+  background-size: cover;
+}

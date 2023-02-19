@@ -19,3 +19,5 @@ gsap.from("nav", { duration: 2, y: "-400%", ease: "bounce" });
 setTimeout(() => {
   gsap.from("section", { duration: 3, y: "-200%", ease: "elastic" });
 }, 3000);
+
+// gsap.from(".div-4", { duration: 2, y: "-400%", ease: "bounce" });
