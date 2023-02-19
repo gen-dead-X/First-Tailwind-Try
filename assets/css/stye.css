@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;0,900;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 body {
   font-family: "Poppins", sans-serif;
@@ -22,19 +22,38 @@ nav {
 .div-4 {
   background-image: url("../images/blob-scene-haikei1.svg");
   background-size: cover;
+  border-top: 5px solid rgb(0, 42, 255);
 }
 
 .div-5 {
   background-image: url("../images/blob-haikei4.svg");
   background-size: cover;
+  border-top: 5px solid rgb(0, 42, 255);
 }
 
 .div-6 {
   background-image: url("../images/low-poly-grid-haikei3.svg");
   background-size: cover;
+  border-top: 5px solid rgb(0, 42, 255);
 }
 
 .div-7 {
   background-image: url("../images/stacked-waves-haikei2.svg");
   background-size: cover;
+  border-top: 5px solid rgb(0, 42, 255);
+}
+
+.soumili-container {
+  background-image: url("../images/stacked-waves-haikei-soumili.svg");
+}
+
+.section-spawner {
+  position: relative;
+}
+
+.the-spawner {
+  display: none;
+  /* position: fixed;
+  bottom: 1rem;
+  left: 38.5%; */
 }
